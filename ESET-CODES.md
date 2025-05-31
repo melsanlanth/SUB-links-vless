@@ -1,4 +1,4 @@
-## Generated On: Friday, 30 May 2025, 23:58 Tehran (UTC+3:30).
+## Generated On: Saturday, 31 May 2025, 05:32 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -12,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-NFDDZK9ZZU
-M2SL6VQENK
-PLJUJTH796
-CIN6OCZ7CY
-1A3J0GR6TX
-SPSNEIEGIA
-0T0ES29RBA
-HVFIRWJMLE
-WMGKGE40P1
-JC7NULFI35
+5SUSUGJSJO
+WBHSSU8E22
+3Y9DT2MTFG
+ECQU128LGI
+LVWK8UYR94
+VBQ6E547XN
+OJAMMUEXLP
+X3IVBHSILP
+675PZT6J6D
+U7MY9VNG3F
 ```
 
 <br>
@@ -29,11 +29,11 @@ JC7NULFI35
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 29.06.2025
+**Expiry:** 30.06.2025
 **License Key:**
 
 ```POV-Ray SDL
-GBB5-XB65-BNN5-XKMS-R48C
+XT86-XX8M-A2TW-F7JD-TM7K
 ```
 
 <br>
@@ -43,255 +43,13 @@ GBB5-XB65-BNN5-XKMS-R48C
 **Email:**
 
 ```CSS
-ulisses.heriberto@fsitip.com
+emrys.shrey@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-HF7|Fb>JFp2fnJ
-```
-
-<br>
-
-#### 📚 Everything you need to know about ESET
-
-[Read Here](https://t.me/F_NiREvil/2113)
-
-#### 🪄 If you need more VPN codes, Check out
-
-[The Darkness TG channel](https://t.me/Eset_key_trial)
-
----
-
-<br><br>
-
-## Generated On: Friday, 30 May 2025, 20:02 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire in 24 hours.
-> Each code is valid for login on only one device.
-
-```ruby
-ZK8K6RJ4R8
-LNR6WQIUPO
-1M8KLF4XR6
-C1CHK4N2NR
-OOGB8V49LF
-2XL9XK7JLK
-R3TYNJB7HM
-FP30YR6G57
-XZPYW5WRSR
-1U4AFB84AF
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 29.06.2025
-**License Key:**
-
-```POV-Ray SDL
-FFHG-X4J5-PFSE-GW56-GXWJ
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-izaiah.straton@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-e4a^FK^;5si|UH?""6k
-```
-
-<br>
-
-#### 📚 Everything you need to know about ESET
-
-[Read Here](https://t.me/F_NiREvil/2113)
-
-#### 🪄 If you need more VPN codes, Check out
-
-[The Darkness TG channel](https://t.me/Eset_key_trial)
-
----
-
-<br><br>
-
-## Generated On: Friday, 30 May 2025, 16:23 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire in 24 hours.
-> Each code is valid for login on only one device.
-
-```ruby
-7WL0YZO457
-I0QVGRUGP4
-4IWDW8B1DP
-VPPZ2EDXD0
-NO0C1EKO9Q
-6JGF9MQYQN
-LID2JD5TCC
-XBLYPA1A3B
-2GTN64M6U8
-96UTYUYXMQ
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 29.06.2025
-**License Key:**
-
-```POV-Ray SDL
-A4T9-XVME-SBVF-GMC4-F6SM
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-umair.latrell@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-Y]P]+q5287.&Z'pcj;
-```
-
-<br>
-
-#### 📚 Everything you need to know about ESET
-
-[Read Here](https://t.me/F_NiREvil/2113)
-
-#### 🪄 If you need more VPN codes, Check out
-
-[The Darkness TG channel](https://t.me/Eset_key_trial)
-
----
-
-<br><br>
-
-## Generated On: Friday, 30 May 2025, 12:05 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-#### 📚 Everything you need to know about ESET
-
-[Read Here](https://t.me/F_NiREvil/2113)
-
-#### 🪄 If you need more VPN codes, Check out
-
-[The Darkness TG channel](https://t.me/Eset_key_trial)
-
----
-
-<br><br>
-
-## Generated On: Friday, 30 May 2025, 08:04 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-#### 📚 Everything you need to know about ESET
-
-[Read Here](https://t.me/F_NiREvil/2113)
-
-#### 🪄 If you need more VPN codes, Check out
-
-[The Darkness TG channel](https://t.me/Eset_key_trial)
-
----
-
-<br><br>
-
-## Generated On: Friday, 30 May 2025, 05:33 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire in 24 hours.
-> Each code is valid for login on only one device.
-
-```ruby
-Y9I8L18YYO
-CTNQPHLNFM
-BHW7IRAJU6
-KQC8XIKAOH
-BFTXV24BKM
-RWZ1REC2TW
-L4K02MUI9I
-YXG7HWRX48
-OF3G7AA5X5
-FW33BVB0QR
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 29.06.2025
-**License Key:**
-
-```POV-Ray SDL
-GR5M-X47W-XMSS-W54T-GGJX
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-jeran.siah@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-6C}hI?0&.KZ5wQ:cK
+$(5/Kog]+C(I>Y*51
 ```
 
 <br>
