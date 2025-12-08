@@ -1,3 +1,22 @@
+## Generated On: Tuesday, 09 December 2025, 00:02 Tehran (UTC+3:30).
+
+> [!CAUTION]
+> Triggered by: schedule
+
+<br><br>
+
+#### 📚 Everything you need to know about ESET
+
+[Read Here](https://t.me/F_NiREvil/2113)
+
+#### 🪄 If you need more VPN codes, Check out
+
+[The Darkness TG channel](https://t.me/Eset_key_trial)
+
+---
+
+<br><br>
+
 ## Generated On: Monday, 08 December 2025, 20:07 Tehran (UTC+3:30).
 
 > [!CAUTION]
