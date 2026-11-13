@@ -11,8 +11,8 @@
 >
 > <p><b>Auto-Updated Daily</b></p>
 >
-> <img src="https://img.shields.io/badge/Last_Update-Thu%2C%2012%20Nov%202026%2009%3A26%20%28UTC%2B3%3A30%29-966600" />  
-> <img src="https://img.shields.io/badge/Next_Update-Fri%2C%2013%20Nov%202026%2009%3A26%20%28UTC%2B3%3A30%29-966600" />
+> <img src="https://img.shields.io/badge/Last_Update-Fri%2C%2013%20Nov%202026%2008%3A48%20%28UTC%2B3%3A30%29-966600" />  
+> <img src="https://img.shields.io/badge/Next_Update-Sat%2C%2014%20Nov%202026%2008%3A48%20%28UTC%2B3%3A30%29-966600" />
 >
 > <br/>
 >
@@ -20,20 +20,21 @@
 >
 > <img src="https://img.shields.io/badge/Active_Proxies-142-966600" />  
 > <img src="https://img.shields.io/badge/Countries-24-966600" />  
-> <img src="https://img.shields.io/badge/Avg_Latency-437ms-darkred" />
+> <img src="https://img.shields.io/badge/Avg_Latency-544ms-darkred" />
 >
 > <br><br/>  
 
-## <img alt="Google" src="https://www.google.com/s2/favicons?sz=22&domain_url=google.com" /> Google (4)
+## <img alt="Google" src="https://www.google.com/s2/favicons?sz=22&domain_url=google.com" /> Google (5)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP    |   Location   |   Ping   |
 |:-------|:---------|:------------:|:--------:|
-| <pre><code>34.136.112.104</code></pre> | Google LLC | Iowa, Council Bluffs | 369 ms ⚡ |
-| <pre><code>35.239.174.101</code></pre> | Google LLC | Iowa, Council Bluffs | 377 ms ⚡ |
-| <pre><code>34.175.202.195</code></pre> | Google LLC | Madrid, Madrid | 423 ms ⚡ |
-| <pre><code>35.210.99.51</code></pre> | Google LLC | Brussels Capital, Brussels | 444 ms ⚡ |
+| <pre><code>35.239.174.101</code></pre> | Google LLC | Iowa, Council Bluffs | 330 ms ⚡ |
+| <pre><code>34.136.112.104</code></pre> | Google LLC | Iowa, Council Bluffs | 405 ms ⚡ |
+| <pre><code>34.175.202.195</code></pre> | Google LLC | Madrid, Madrid | 454 ms ⚡ |
+| <pre><code>35.241.172.224</code></pre> | Google LLC | Brussels Capital, Brussels | 480 ms ⚡ |
+| <pre><code>35.210.99.51</code></pre> | Google LLC | Brussels Capital, Brussels | 519 ms ⚡ |
 
 </details>
 
@@ -45,18 +46,18 @@
 
 |   IP   |   ISP    |   Location   |   Ping   |
 |:-------|:---------|:------------:|:--------:|
-| <pre><code>18.222.50.18</code></pre> | Amazon Technologies Inc. | Ohio, Columbus | 159 ms ⚡ |
-| <pre><code>44.209.52.7</code></pre> | Amazon Data Services Northern Virginia | Virginia, Ashburn | 170 ms ⚡ |
-| <pre><code>2600:1f13:5f0:ab00:b7c0:90cf:366d:a259</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 221 ms ⚡ |
-| <pre><code>40.177.65.8</code></pre> | Amazon Data Services Canada | Alberta, Calgary | 321 ms ⚡ |
-| <pre><code>54.77.206.41</code></pre> | Amazon Technologies Inc. | Leinster, Dublin | 353 ms ⚡ |
-| <pre><code>35.176.187.206</code></pre> | Amazon Data Services UK | England, London | 361 ms ⚡ |
-| <pre><code>16.63.207.85</code></pre> | Amazon Data Services Switzerland | Zurich, Zürich | 456 ms ⚡ |
-| <pre><code>54.247.36.82</code></pre> | Amazon Data Services Ireland Limited | Leinster, Dublin | 458 ms ⚡ |
-| <pre><code>16.176.42.97</code></pre> | Amazon Corporate Services Pty Ltd | New South Wales, Sydney | 587 ms ⚡ |
-| <pre><code>54.213.214.160</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 679 ms ⚡ |
-| <pre><code>3.29.240.49</code></pre> | Amazon Data Services UAE | Dubai, Dubai | 1003 ms ⚡ |
-| <pre><code>3.0.50.69</code></pre> | Amazon Data Services Singapore | Unknown, Singapore | 1233 ms 🐇 |
+| <pre><code>2600:1f13:5f0:ab00:b7c0:90cf:366d:a259</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 57 ms ⚡ |
+| <pre><code>40.177.65.8</code></pre> | Amazon Data Services Canada | Alberta, Calgary | 158 ms ⚡ |
+| <pre><code>18.222.50.18</code></pre> | Amazon Technologies Inc. | Ohio, Columbus | 196 ms ⚡ |
+| <pre><code>44.209.52.7</code></pre> | Amazon Data Services Northern Virginia | Virginia, Ashburn | 218 ms ⚡ |
+| <pre><code>35.176.187.206</code></pre> | Amazon Data Services UK | England, London | 418 ms ⚡ |
+| <pre><code>54.77.206.41</code></pre> | Amazon Technologies Inc. | Leinster, Dublin | 430 ms ⚡ |
+| <pre><code>54.247.36.82</code></pre> | Amazon Data Services Ireland Limited | Leinster, Dublin | 511 ms ⚡ |
+| <pre><code>16.63.207.85</code></pre> | Amazon Data Services Switzerland | Zurich, Zürich | 512 ms ⚡ |
+| <pre><code>54.213.214.160</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 520 ms ⚡ |
+| <pre><code>16.176.42.97</code></pre> | Amazon Corporate Services Pty Ltd | New South Wales, Sydney | 636 ms ⚡ |
+| <pre><code>3.29.240.49</code></pre> | Amazon Data Services UAE | Dubai, Dubai | 1110 ms 🐇 |
+| <pre><code>3.0.50.69</code></pre> | Amazon Data Services Singapore | Unknown, Singapore | 1171 ms 🐇 |
 
 </details>
 
@@ -68,31 +69,30 @@
 
 |   IP   |   ISP    |   Location   |   Ping   |
 |:-------|:---------|:------------:|:--------:|
-| <pre><code>2a09:bac5:4e24:2719::3e5:2c</code></pre> | Cloudflare London, LLC | North Holland, Amsterdam | 409 ms ⚡ |
-| <pre><code>2a09:bac5:4302:dc::16:199</code></pre> | Cloudflare London, LLC | Tokyo, Tokyo | 492 ms ⚡ |
-| <pre><code>2a09:bac1:47a0::a6:12</code></pre> | Cloudflare London, LLC | Chișinău Municipality, Chisinau | 582 ms ⚡ |
+| <pre><code>2a09:bac5:4302:dc::16:1b7</code></pre> | Cloudflare London, LLC | Tokyo, Tokyo | 416 ms ⚡ |
+| <pre><code>2a09:bac5:4e24:2719::3e5:2c</code></pre> | Cloudflare London, LLC | North Holland, Amsterdam | 502 ms ⚡ |
+| <pre><code>2a09:bac5:48ed:682::a6:d</code></pre> | Cloudflare London, LLC | Chișinău Municipality, Chisinau | 644 ms ⚡ |
 
 </details>
 
 ---
 
-## <img alt="Hetzner" src="https://www.google.com/s2/favicons?sz=22&domain_url=hetzner.com" /> Hetzner (11)
+## <img alt="Hetzner" src="https://www.google.com/s2/favicons?sz=22&domain_url=hetzner.com" /> Hetzner (10)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP    |   Location   |   Ping   |
 |:-------|:---------|:------------:|:--------:|
-| <pre><code>178.156.139.174</code></pre> | Hetzner Online GmbH | Virginia, Ashburn | 348 ms ⚡ |
-| <pre><code>2a01:4f8:c17:1e71::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 428 ms ⚡ |
-| <pre><code>88.99.92.84</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 452 ms ⚡ |
-| <pre><code>2a01:4f8:1c17:c311::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 452 ms ⚡ |
-| <pre><code>116.203.58.165</code></pre> | Hetzner Online GmbH | Bavaria, Nuremberg | 469 ms ⚡ |
-| <pre><code>37.27.92.255</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 498 ms ⚡ |
-| <pre><code>37.27.24.143</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 518 ms ⚡ |
-| <pre><code>2a01:4f9:c012:dd00::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 519 ms ⚡ |
-| <pre><code>2a01:4f9:c010:4d90::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 522 ms ⚡ |
-| <pre><code>2a01:4f9:c012:9acd::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 540 ms ⚡ |
-| <pre><code>2a01:4f9:c012:b056::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 575 ms ⚡ |
+| <pre><code>178.156.139.174</code></pre> | Hetzner Online GmbH | Virginia, Ashburn | 491 ms ⚡ |
+| <pre><code>2a01:4f8:1c17:c311::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 550 ms ⚡ |
+| <pre><code>2a01:4f8:c17:1e71::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 569 ms ⚡ |
+| <pre><code>2a01:4f9:c012:b056::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 578 ms ⚡ |
+| <pre><code>37.27.92.255</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 582 ms ⚡ |
+| <pre><code>2a01:4f9:c010:4d90::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 587 ms ⚡ |
+| <pre><code>2a01:4f9:c012:dd00::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 591 ms ⚡ |
+| <pre><code>37.27.24.143</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 615 ms ⚡ |
+| <pre><code>2a01:4f9:c012:9acd::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 621 ms ⚡ |
+| <pre><code>116.203.58.165</code></pre> | Hetzner Online GmbH | Bavaria, Nuremberg | 622 ms ⚡ |
 
 </details>
 
@@ -104,7 +104,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>3.29.240.49</code></pre> | Amazon Data Services UAE | Dubai, Dubai | 1003 ms ⚡ |
+| <pre><code>3.29.240.49</code></pre> | Amazon Data Services UAE | Dubai, Dubai | 1110 ms 🐇 |
 
 </details>
 
@@ -116,20 +116,21 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>16.176.42.97</code></pre> | Amazon Corporate Services Pty Ltd | New South Wales, Sydney | 587 ms ⚡ |
-| <pre><code>45.77.236.204</code></pre> | Vultr Holdings, LLC | New South Wales, Sydney | 900 ms ⚡ |
+| <pre><code>16.176.42.97</code></pre> | Amazon Corporate Services Pty Ltd | New South Wales, Sydney | 636 ms ⚡ |
+| <pre><code>45.77.236.204</code></pre> | Vultr Holdings, LLC | New South Wales, Sydney | 1452 ms 🐇 |
 
 </details>
 
 ---
 
-## 🇧🇪 Belgium (1 proxies)
+## 🇧🇪 Belgium (2 proxies)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>35.210.99.51</code></pre> | Google LLC | Brussels Capital, Brussels | 444 ms ⚡ |
+| <pre><code>35.241.172.224</code></pre> | Google LLC | Brussels Capital, Brussels | 480 ms ⚡ |
+| <pre><code>35.210.99.51</code></pre> | Google LLC | Brussels Capital, Brussels | 519 ms ⚡ |
 
 </details>
 
@@ -141,8 +142,8 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.78.255</code></pre> | 3NT SOLUTIONS LLP | São Paulo, São Paulo | 509 ms ⚡ |
-| <pre><code>38.180.78.255</code></pre> | 3NT SOLUTIONS LLP | São Paulo, São Paulo | 541 ms ⚡ |
+| <pre><code>38.180.78.255</code></pre> | 3NT SOLUTIONS LLP | São Paulo, São Paulo | 614 ms ⚡ |
+| <pre><code>38.180.78.255</code></pre> | 3NT SOLUTIONS LLP | São Paulo, São Paulo | 629 ms ⚡ |
 
 </details>
 
@@ -154,9 +155,9 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>155.138.128.135</code></pre> | Vultr Holdings, LLC | Ontario, East York | 241 ms ⚡ |
-| <pre><code>40.177.65.8</code></pre> | Amazon Data Services Canada | Alberta, Calgary | 321 ms ⚡ |
-| <pre><code>167.114.67.25</code></pre> | OVH Hosting, Inc. | Quebec, Beauharnois | 382 ms ⚡ |
+| <pre><code>40.177.65.8</code></pre> | Amazon Data Services Canada | Alberta, Calgary | 158 ms ⚡ |
+| <pre><code>155.138.128.135</code></pre> | Vultr Holdings, LLC | Ontario, East York | 356 ms ⚡ |
+| <pre><code>167.114.67.25</code></pre> | OVH Hosting, Inc. | Quebec, Beauharnois | 530 ms ⚡ |
 
 </details>
 
@@ -168,34 +169,33 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.85.203</code></pre> | 3NT SOLUTIONS LLP | Ticino, Lugano | 453 ms ⚡ |
-| <pre><code>16.63.207.85</code></pre> | Amazon Data Services Switzerland | Zurich, Zürich | 456 ms ⚡ |
+| <pre><code>16.63.207.85</code></pre> | Amazon Data Services Switzerland | Zurich, Zürich | 512 ms ⚡ |
+| <pre><code>38.180.85.203</code></pre> | 3NT SOLUTIONS LLP | Ticino, Lugano | 515 ms ⚡ |
 
 </details>
 
 ---
 
-## 🇩🇪 Germany (15 proxies)
+## 🇩🇪 Germany (14 proxies)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>167.71.45.93</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 401 ms ⚡ |
-| <pre><code>37.1.195.124</code></pre> | 3NT Solutions LLP | Hesse, Frankfurt am Main | 406 ms ⚡ |
-| <pre><code>194.164.192.16</code></pre> | IONOS SE | State of Berlin, Berlin | 411 ms ⚡ |
-| <pre><code>138.197.183.219</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 417 ms ⚡ |
-| <pre><code>2a01:4f8:c17:1e71::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 428 ms ⚡ |
-| <pre><code>38.180.219.131</code></pre> | 3NT SOLUTIONS LLP | Hesse, Frankfurt am Main | 433 ms ⚡ |
-| <pre><code>194.247.187.244</code></pre> | HOSTKEY B.V. | Hesse, Frankfurt am Main | 435 ms ⚡ |
-| <pre><code>134.122.77.148</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 451 ms ⚡ |
-| <pre><code>88.99.92.84</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 452 ms ⚡ |
-| <pre><code>2a01:4f8:1c17:c311::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 452 ms ⚡ |
-| <pre><code>116.203.58.165</code></pre> | Hetzner Online GmbH | Bavaria, Nuremberg | 469 ms ⚡ |
-| <pre><code>2a03:4000:40:218:18bc:8fff:fe9b:3b66</code></pre> | netcup GmbH | Bavaria, Nuremberg | 498 ms ⚡ |
-| <pre><code>162.19.247.245</code></pre> | OVH GmbH | Hesse, Limburg an der Lahn | 508 ms ⚡ |
-| <pre><code>89.58.57.45</code></pre> | netcup GmbH | Bavaria, Nuremberg | 523 ms ⚡ |
-| <pre><code>134.209.227.204</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 1225 ms 🐇 |
+| <pre><code>37.1.195.124</code></pre> | 3NT Solutions LLP | Hesse, Frankfurt am Main | 478 ms ⚡ |
+| <pre><code>138.197.183.219</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 493 ms ⚡ |
+| <pre><code>194.247.187.244</code></pre> | HOSTKEY B.V. | Hesse, Frankfurt am Main | 500 ms ⚡ |
+| <pre><code>167.71.45.93</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 506 ms ⚡ |
+| <pre><code>38.180.219.131</code></pre> | 3NT SOLUTIONS LLP | Hesse, Frankfurt am Main | 508 ms ⚡ |
+| <pre><code>2a01:4f8:1c17:c311::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 550 ms ⚡ |
+| <pre><code>134.122.77.148</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 554 ms ⚡ |
+| <pre><code>194.164.192.16</code></pre> | IONOS SE | State of Berlin, Berlin | 559 ms ⚡ |
+| <pre><code>2a01:4f8:c17:1e71::1</code></pre> | Hetzner Online GmbH | Saxony, Falkenstein | 569 ms ⚡ |
+| <pre><code>162.19.247.245</code></pre> | OVH GmbH | Hesse, Limburg an der Lahn | 573 ms ⚡ |
+| <pre><code>2a03:4000:40:218:18bc:8fff:fe9b:3b66</code></pre> | netcup GmbH | Bavaria, Nuremberg | 578 ms ⚡ |
+| <pre><code>89.58.57.45</code></pre> | netcup GmbH | Bavaria, Nuremberg | 613 ms ⚡ |
+| <pre><code>116.203.58.165</code></pre> | Hetzner Online GmbH | Bavaria, Nuremberg | 622 ms ⚡ |
+| <pre><code>134.209.227.204</code></pre> | DigitalOcean, LLC | Hesse, Frankfurt am Main | 1131 ms 🐇 |
 
 </details>
 
@@ -207,7 +207,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.216.120</code></pre> | 3NT SOLUTIONS LLP | Harjumaa, Tallinn | 446 ms ⚡ |
+| <pre><code>38.180.216.120</code></pre> | 3NT SOLUTIONS LLP | Harjumaa, Tallinn | 584 ms ⚡ |
 
 </details>
 
@@ -219,8 +219,8 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>34.175.202.195</code></pre> | Google LLC | Madrid, Madrid | 423 ms ⚡ |
-| <pre><code>212.227.90.142</code></pre> | IONOS SE | La Rioja, Logroño | 443 ms ⚡ |
+| <pre><code>34.175.202.195</code></pre> | Google LLC | Madrid, Madrid | 454 ms ⚡ |
+| <pre><code>212.227.90.142</code></pre> | IONOS SE | La Rioja, Logroño | 637 ms ⚡ |
 
 </details>
 
@@ -232,15 +232,15 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>85.90.208.87</code></pre> | 3NT Solutions LLP | Uusimaa, Helsinki | 446 ms ⚡ |
-| <pre><code>212.237.219.24</code></pre> | HOSTKEY B.V. | Uusimaa, Helsinki | 454 ms ⚡ |
-| <pre><code>194.180.189.194</code></pre> | HOSTKEY B.V. | Uusimaa, Helsinki | 473 ms ⚡ |
-| <pre><code>37.27.92.255</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 498 ms ⚡ |
-| <pre><code>37.27.24.143</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 518 ms ⚡ |
-| <pre><code>2a01:4f9:c012:dd00::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 519 ms ⚡ |
-| <pre><code>2a01:4f9:c010:4d90::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 522 ms ⚡ |
-| <pre><code>2a01:4f9:c012:9acd::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 540 ms ⚡ |
-| <pre><code>2a01:4f9:c012:b056::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 575 ms ⚡ |
+| <pre><code>212.237.219.24</code></pre> | HOSTKEY B.V. | Uusimaa, Helsinki | 543 ms ⚡ |
+| <pre><code>85.90.208.87</code></pre> | 3NT Solutions LLP | Uusimaa, Helsinki | 556 ms ⚡ |
+| <pre><code>194.180.189.194</code></pre> | HOSTKEY B.V. | Uusimaa, Helsinki | 572 ms ⚡ |
+| <pre><code>2a01:4f9:c012:b056::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 578 ms ⚡ |
+| <pre><code>37.27.92.255</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 582 ms ⚡ |
+| <pre><code>2a01:4f9:c010:4d90::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 587 ms ⚡ |
+| <pre><code>2a01:4f9:c012:dd00::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 591 ms ⚡ |
+| <pre><code>37.27.24.143</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 615 ms ⚡ |
+| <pre><code>2a01:4f9:c012:9acd::1</code></pre> | Hetzner Online GmbH | Uusimaa, Helsinki | 621 ms ⚡ |
 
 </details>
 
@@ -252,62 +252,63 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>109.199.122.5</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 382 ms ⚡ |
-| <pre><code>84.247.166.22</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 391 ms ⚡ |
-| <pre><code>51.38.44.17</code></pre> | OVH SAS | Hauts-de-France, Gravelines | 401 ms ⚡ |
-| <pre><code>109.199.126.6</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 403 ms ⚡ |
-| <pre><code>51.91.40.26</code></pre> | OVH Hispano | Grand Est, Strasbourg | 419 ms ⚡ |
+| <pre><code>51.38.44.17</code></pre> | OVH SAS | Hauts-de-France, Gravelines | 513 ms ⚡ |
+| <pre><code>109.199.126.6</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 538 ms ⚡ |
+| <pre><code>109.199.122.5</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 550 ms ⚡ |
+| <pre><code>51.91.40.26</code></pre> | OVH Hispano | Grand Est, Strasbourg | 551 ms ⚡ |
+| <pre><code>84.247.166.22</code></pre> | Contabo GmbH | Grand Est, Lauterbourg | 617 ms ⚡ |
 
 </details>
 
 ---
 
-## 🇬🇧 United Kingdom (40 proxies)
+## 🇬🇧 United Kingdom (41 proxies)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>57.128.181.125</code></pre> | OVH Ltd | England, London | 344 ms ⚡ |
-| <pre><code>57.128.178.232</code></pre> | OVH Ltd | England, Woolwich | 348 ms ⚡ |
-| <pre><code>57.128.179.254</code></pre> | OVH Ltd | England, Woolwich | 349 ms ⚡ |
-| <pre><code>57.128.181.219</code></pre> | OVH Ltd | England, Erith | 352 ms ⚡ |
-| <pre><code>57.128.178.36</code></pre> | OVH Ltd | England, Woolwich | 355 ms ⚡ |
-| <pre><code>57.128.183.214</code></pre> | OVH Ltd | England, Plumstead | 356 ms ⚡ |
-| <pre><code>57.128.176.37</code></pre> | OVH Ltd | England, Barking | 358 ms ⚡ |
-| <pre><code>57.128.183.3</code></pre> | OVH Ltd | England, Plumstead | 359 ms ⚡ |
-| <pre><code>35.176.187.206</code></pre> | Amazon Data Services UK | England, London | 361 ms ⚡ |
-| <pre><code>57.128.179.45</code></pre> | OVH Ltd | England, Woolwich | 362 ms ⚡ |
-| <pre><code>57.128.176.90</code></pre> | OVH Ltd | England, Barking | 364 ms ⚡ |
-| <pre><code>57.128.176.87</code></pre> | OVH Ltd | England, Barking | 366 ms ⚡ |
-| <pre><code>57.128.178.42</code></pre> | OVH Ltd | England, Woolwich | 366 ms ⚡ |
-| <pre><code>57.128.176.82</code></pre> | OVH Ltd | England, Barking | 367 ms ⚡ |
-| <pre><code>57.128.177.22</code></pre> | OVH Ltd | England, Woolwich | 368 ms ⚡ |
-| <pre><code>57.128.179.189</code></pre> | OVH Ltd | England, Woolwich | 369 ms ⚡ |
-| <pre><code>57.128.182.27</code></pre> | OVH Ltd | England, London | 369 ms ⚡ |
-| <pre><code>87.106.65.110</code></pre> | IONOS SE | England, London | 371 ms ⚡ |
-| <pre><code>57.128.182.61</code></pre> | OVH Ltd | England, Erith | 371 ms ⚡ |
-| <pre><code>57.128.183.138</code></pre> | OVH Ltd | England, Plumstead | 371 ms ⚡ |
-| <pre><code>57.128.183.82</code></pre> | OVH Ltd | England, Plumstead | 371 ms ⚡ |
-| <pre><code>57.128.177.172</code></pre> | OVH Ltd | England, Woolwich | 375 ms ⚡ |
-| <pre><code>57.128.178.63</code></pre> | OVH Ltd | England, Woolwich | 376 ms ⚡ |
-| <pre><code>57.128.183.35</code></pre> | OVH Ltd | England, Plumstead | 376 ms ⚡ |
-| <pre><code>57.128.183.133</code></pre> | OVH Ltd | England, Plumstead | 377 ms ⚡ |
-| <pre><code>165.227.237.209</code></pre> | DigitalOcean, LLC | England, London | 379 ms ⚡ |
-| <pre><code>57.128.177.198</code></pre> | OVH Ltd | England, Woolwich | 388 ms ⚡ |
-| <pre><code>57.128.183.108</code></pre> | OVH Ltd | England, Plumstead | 389 ms ⚡ |
-| <pre><code>57.128.181.14</code></pre> | OVH Ltd | England, Erith | 390 ms ⚡ |
-| <pre><code>57.128.183.90</code></pre> | OVH Ltd | England, Plumstead | 392 ms ⚡ |
-| <pre><code>217.154.53.220</code></pre> | IONOS SE | England, London | 397 ms ⚡ |
-| <pre><code>57.128.181.221</code></pre> | OVH Ltd | England, Erith | 399 ms ⚡ |
-| <pre><code>57.128.182.21</code></pre> | OVH Ltd | England, London | 401 ms ⚡ |
-| <pre><code>57.128.183.59</code></pre> | OVH Ltd | England, Plumstead | 401 ms ⚡ |
-| <pre><code>57.128.183.248</code></pre> | OVH Ltd | England, Plumstead | 403 ms ⚡ |
-| <pre><code>57.128.178.122</code></pre> | OVH Ltd | England, Woolwich | 404 ms ⚡ |
-| <pre><code>57.128.178.196</code></pre> | OVH Ltd | England, Woolwich | 411 ms ⚡ |
-| <pre><code>159.65.19.63</code></pre> | DigitalOcean, LLC | England, London | 419 ms ⚡ |
-| <pre><code>57.128.180.98</code></pre> | OVH Ltd | England, Woolwich | 427 ms ⚡ |
-| <pre><code>51.195.235.202</code></pre> | OVH Ltd | England, Barking | 456 ms ⚡ |
+| <pre><code>35.176.187.206</code></pre> | Amazon Data Services UK | England, London | 418 ms ⚡ |
+| <pre><code>57.128.183.3</code></pre> | OVH Ltd | England, Plumstead | 479 ms ⚡ |
+| <pre><code>57.128.181.14</code></pre> | OVH Ltd | England, Erith | 482 ms ⚡ |
+| <pre><code>57.128.176.87</code></pre> | OVH Ltd | England, Barking | 487 ms ⚡ |
+| <pre><code>57.128.179.45</code></pre> | OVH Ltd | England, Woolwich | 487 ms ⚡ |
+| <pre><code>57.128.182.61</code></pre> | OVH Ltd | England, Erith | 489 ms ⚡ |
+| <pre><code>57.128.178.232</code></pre> | OVH Ltd | England, Woolwich | 490 ms ⚡ |
+| <pre><code>57.128.179.254</code></pre> | OVH Ltd | England, Woolwich | 492 ms ⚡ |
+| <pre><code>57.128.181.221</code></pre> | OVH Ltd | England, Erith | 492 ms ⚡ |
+| <pre><code>57.128.177.198</code></pre> | OVH Ltd | England, Woolwich | 492 ms ⚡ |
+| <pre><code>57.128.181.125</code></pre> | OVH Ltd | England, London | 492 ms ⚡ |
+| <pre><code>57.128.183.214</code></pre> | OVH Ltd | England, Plumstead | 493 ms ⚡ |
+| <pre><code>57.128.176.37</code></pre> | OVH Ltd | England, Barking | 495 ms ⚡ |
+| <pre><code>57.128.181.219</code></pre> | OVH Ltd | England, Erith | 496 ms ⚡ |
+| <pre><code>57.128.183.108</code></pre> | OVH Ltd | England, Plumstead | 496 ms ⚡ |
+| <pre><code>57.128.182.21</code></pre> | OVH Ltd | England, London | 496 ms ⚡ |
+| <pre><code>57.128.183.82</code></pre> | OVH Ltd | England, Plumstead | 496 ms ⚡ |
+| <pre><code>57.128.178.196</code></pre> | OVH Ltd | England, Woolwich | 497 ms ⚡ |
+| <pre><code>57.128.183.138</code></pre> | OVH Ltd | England, Plumstead | 498 ms ⚡ |
+| <pre><code>57.128.178.36</code></pre> | OVH Ltd | England, Woolwich | 499 ms ⚡ |
+| <pre><code>57.128.182.27</code></pre> | OVH Ltd | England, London | 499 ms ⚡ |
+| <pre><code>57.128.176.82</code></pre> | OVH Ltd | England, Barking | 500 ms ⚡ |
+| <pre><code>57.128.183.248</code></pre> | OVH Ltd | England, Plumstead | 500 ms ⚡ |
+| <pre><code>57.128.180.98</code></pre> | OVH Ltd | England, Woolwich | 502 ms ⚡ |
+| <pre><code>57.128.177.172</code></pre> | OVH Ltd | England, Woolwich | 503 ms ⚡ |
+| <pre><code>57.128.183.90</code></pre> | OVH Ltd | England, Plumstead | 504 ms ⚡ |
+| <pre><code>57.128.183.133</code></pre> | OVH Ltd | England, Plumstead | 504 ms ⚡ |
+| <pre><code>57.128.178.63</code></pre> | OVH Ltd | England, Woolwich | 506 ms ⚡ |
+| <pre><code>57.128.183.35</code></pre> | OVH Ltd | England, Plumstead | 508 ms ⚡ |
+| <pre><code>57.128.179.189</code></pre> | OVH Ltd | England, Woolwich | 512 ms ⚡ |
+| <pre><code>57.128.176.90</code></pre> | OVH Ltd | England, Barking | 513 ms ⚡ |
+| <pre><code>57.128.177.22</code></pre> | OVH Ltd | England, Woolwich | 513 ms ⚡ |
+| <pre><code>165.227.237.209</code></pre> | DigitalOcean, LLC | England, London | 513 ms ⚡ |
+| <pre><code>57.128.183.59</code></pre> | OVH Ltd | England, Plumstead | 516 ms ⚡ |
+| <pre><code>57.128.178.42</code></pre> | OVH Ltd | England, Woolwich | 521 ms ⚡ |
+| <pre><code>87.106.65.110</code></pre> | IONOS SE | England, London | 529 ms ⚡ |
+| <pre><code>159.65.19.63</code></pre> | DigitalOcean, LLC | England, London | 537 ms ⚡ |
+| <pre><code>51.195.235.202</code></pre> | OVH Ltd | England, Barking | 539 ms ⚡ |
+| <pre><code>217.154.53.220</code></pre> | IONOS SE | England, London | 554 ms ⚡ |
+| <pre><code>57.128.178.122</code></pre> | OVH Ltd | England, Woolwich | 593 ms ⚡ |
+| <pre><code>206.189.114.222</code></pre> | DigitalOcean, LLC | England, London | 1711 ms 🐌 |
 
 </details>
 
@@ -319,8 +320,8 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.109.174</code></pre> | 3NT SOLUTIONS LLP | Budapest, Budapest | 448 ms ⚡ |
-| <pre><code>38.180.109.174</code></pre> | 3NT SOLUTIONS LLP | Budapest, Budapest | 461 ms ⚡ |
+| <pre><code>38.180.109.174</code></pre> | 3NT SOLUTIONS LLP | Budapest, Budapest | 1541 ms 🐇 |
+| <pre><code>38.180.109.174</code></pre> | 3NT SOLUTIONS LLP | Budapest, Budapest | 1589 ms 🐇 |
 
 </details>
 
@@ -332,8 +333,8 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>54.77.206.41</code></pre> | Amazon Technologies Inc. | Leinster, Dublin | 353 ms ⚡ |
-| <pre><code>54.247.36.82</code></pre> | Amazon Data Services Ireland Limited | Leinster, Dublin | 458 ms ⚡ |
+| <pre><code>54.77.206.41</code></pre> | Amazon Technologies Inc. | Leinster, Dublin | 430 ms ⚡ |
+| <pre><code>54.247.36.82</code></pre> | Amazon Data Services Ireland Limited | Leinster, Dublin | 511 ms ⚡ |
 
 </details>
 
@@ -345,7 +346,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>134.209.148.128</code></pre> | DigitalOcean, LLC | Karnataka, Bengaluru | 1118 ms 🐇 |
+| <pre><code>134.209.148.128</code></pre> | DigitalOcean, LLC | Karnataka, Bengaluru | 1117 ms 🐇 |
 
 </details>
 
@@ -357,7 +358,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>194.247.183.118</code></pre> | HOSTKEY B.V. | Capital Region, Reykjavík | 525 ms ⚡ |
+| <pre><code>194.247.183.118</code></pre> | HOSTKEY B.V. | Capital Region, Reykjavík | 614 ms ⚡ |
 
 </details>
 
@@ -369,10 +370,10 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>2001:19f0:7001:ac1:5400:4ff:fe39:38a4</code></pre> | Vultr Holdings, LLC | Tokyo, Ebara | 439 ms ⚡ |
-| <pre><code>149.28.21.106</code></pre> | Vultr Holdings, LLC | Tokyo, Ebara | 449 ms ⚡ |
-| <pre><code>2401:c080:3800:25c8:5400:5ff:fe7a:62c</code></pre> | The Constant Company, LLC | Osaka, Osaka | 489 ms ⚡ |
-| <pre><code>2a09:bac5:4302:dc::16:199</code></pre> | Cloudflare London, LLC | Tokyo, Tokyo | 492 ms ⚡ |
+| <pre><code>2001:19f0:7001:ac1:5400:4ff:fe39:38a4</code></pre> | Vultr Holdings, LLC | Tokyo, Ebara | 333 ms ⚡ |
+| <pre><code>149.28.21.106</code></pre> | Vultr Holdings, LLC | Tokyo, Ebara | 371 ms ⚡ |
+| <pre><code>2401:c080:3800:25c8:5400:5ff:fe7a:62c</code></pre> | The Constant Company, LLC | Osaka, Osaka | 408 ms ⚡ |
+| <pre><code>2a09:bac5:4302:dc::16:1b7</code></pre> | Cloudflare London, LLC | Tokyo, Tokyo | 416 ms ⚡ |
 
 </details>
 
@@ -384,7 +385,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.38.137</code></pre> | 3NT SOLUTIONS LLP | Almaty, Almaty | 1102 ms 🐇 |
+| <pre><code>38.180.38.137</code></pre> | 3NT SOLUTIONS LLP | Almaty, Almaty | 868 ms ⚡ |
 
 </details>
 
@@ -396,7 +397,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>2a09:bac1:47a0::a6:12</code></pre> | Cloudflare London, LLC | Chișinău Municipality, Chisinau | 582 ms ⚡ |
+| <pre><code>2a09:bac5:48ed:682::a6:d</code></pre> | Cloudflare London, LLC | Chișinău Municipality, Chisinau | 644 ms ⚡ |
 
 </details>
 
@@ -408,22 +409,22 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>2a00:7c80:0:42::2</code></pre> | WorldStream B.V. | South Holland, Rotterdam | 349 ms ⚡ |
-| <pre><code>212.87.220.98</code></pre> | Baykov Ilya Sergeevich | Flevoland, Dronten | 373 ms ⚡ |
-| <pre><code>2a03:b0c0:2:d0::e04:a001</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 376 ms ⚡ |
-| <pre><code>192.210.175.185</code></pre> | HostPapa | North Holland, Amsterdam | 383 ms ⚡ |
-| <pre><code>178.62.242.239</code></pre> | DigitalOcean Amsterdam | North Holland, Amsterdam | 384 ms ⚡ |
-| <pre><code>64.225.77.36</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 389 ms ⚡ |
-| <pre><code>165.232.89.21</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 394 ms ⚡ |
-| <pre><code>64.225.77.36</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 396 ms ⚡ |
-| <pre><code>185.156.172.196</code></pre> | M247 LTD Amsterdam Infrastructure | North Holland, Amsterdam | 397 ms ⚡ |
-| <pre><code>209.38.38.145</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 398 ms ⚡ |
-| <pre><code>159.223.224.134</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 399 ms ⚡ |
-| <pre><code>176.222.52.201</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 406 ms ⚡ |
-| <pre><code>146.0.79.33</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 409 ms ⚡ |
-| <pre><code>2a09:bac5:4e24:2719::3e5:2c</code></pre> | Cloudflare London, LLC | North Holland, Amsterdam | 409 ms ⚡ |
-| <pre><code>146.190.236.144</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 410 ms ⚡ |
-| <pre><code>176.222.52.246</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 418 ms ⚡ |
+| <pre><code>146.0.79.33</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 460 ms ⚡ |
+| <pre><code>176.222.52.201</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 462 ms ⚡ |
+| <pre><code>2a00:7c80:0:42::2</code></pre> | WorldStream B.V. | South Holland, Rotterdam | 484 ms ⚡ |
+| <pre><code>176.222.52.246</code></pre> | HOSTKEY B.V. | North Holland, Amsterdam | 494 ms ⚡ |
+| <pre><code>212.87.220.98</code></pre> | Baykov Ilya Sergeevich | Flevoland, Dronten | 498 ms ⚡ |
+| <pre><code>2a09:bac5:4e24:2719::3e5:2c</code></pre> | Cloudflare London, LLC | North Holland, Amsterdam | 502 ms ⚡ |
+| <pre><code>192.210.175.185</code></pre> | HostPapa | North Holland, Amsterdam | 512 ms ⚡ |
+| <pre><code>146.190.236.144</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 516 ms ⚡ |
+| <pre><code>2a03:b0c0:2:d0::e04:a001</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 526 ms ⚡ |
+| <pre><code>209.38.38.145</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 527 ms ⚡ |
+| <pre><code>178.62.242.239</code></pre> | DigitalOcean Amsterdam | North Holland, Amsterdam | 527 ms ⚡ |
+| <pre><code>185.156.172.196</code></pre> | M247 LTD Amsterdam Infrastructure | North Holland, Amsterdam | 536 ms ⚡ |
+| <pre><code>64.225.77.36</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 555 ms ⚡ |
+| <pre><code>64.225.77.36</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 561 ms ⚡ |
+| <pre><code>165.232.89.21</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 569 ms ⚡ |
+| <pre><code>159.223.224.134</code></pre> | DigitalOcean, LLC | North Holland, Amsterdam | 599 ms ⚡ |
 
 </details>
 
@@ -435,10 +436,10 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>70.34.243.123</code></pre> | The Constant Company, LLC | Mazovia, Warsaw | 390 ms ⚡ |
-| <pre><code>64.176.68.73</code></pre> | The Constant Company, LLC | Mazovia, Warsaw | 396 ms ⚡ |
-| <pre><code>51.68.141.223</code></pre> | OVH Sp. z o. o. | Mazovia, Warsaw | 441 ms ⚡ |
-| <pre><code>2001:41d0:601:1100::2aa5</code></pre> | OVH Sp. z o. o. | Mazovia, Warsaw | 442 ms ⚡ |
+| <pre><code>64.176.68.73</code></pre> | The Constant Company, LLC | Mazovia, Warsaw | 559 ms ⚡ |
+| <pre><code>51.68.141.223</code></pre> | OVH Sp. z o. o. | Mazovia, Warsaw | 595 ms ⚡ |
+| <pre><code>70.34.243.123</code></pre> | The Constant Company, LLC | Mazovia, Warsaw | 610 ms ⚡ |
+| <pre><code>2001:41d0:601:1100::2aa5</code></pre> | OVH Sp. z o. o. | Mazovia, Warsaw | 616 ms ⚡ |
 
 </details>
 
@@ -450,7 +451,7 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>38.180.100.80</code></pre> | 3NT SOLUTIONS LLP | Central Serbia, Belgrade | 529 ms ⚡ |
+| <pre><code>38.180.100.80</code></pre> | 3NT SOLUTIONS LLP | Central Serbia, Belgrade | 635 ms ⚡ |
 
 </details>
 
@@ -462,43 +463,42 @@
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>2400:6180:0:d0::ebc:1</code></pre> | DigitalOcean, LLC | Unknown, Singapore | 785 ms ⚡ |
-| <pre><code>178.128.86.3</code></pre> | DigitalOcean, LLC | Unknown, Singapore | 793 ms ⚡ |
-| <pre><code>3.0.50.69</code></pre> | Amazon Data Services Singapore | Unknown, Singapore | 1233 ms 🐇 |
+| <pre><code>2400:6180:0:d0::ebc:1</code></pre> | DigitalOcean, LLC | Unknown, Singapore | 681 ms ⚡ |
+| <pre><code>178.128.86.3</code></pre> | DigitalOcean, LLC | Unknown, Singapore | 768 ms ⚡ |
+| <pre><code>3.0.50.69</code></pre> | Amazon Data Services Singapore | Unknown, Singapore | 1171 ms 🐇 |
 
 </details>
 
 ---
 
-## 🇺🇸 United States (23 proxies)
+## 🇺🇸 United States (22 proxies)
 <details>
 <summary>Click to expand</summary>
 
 |   IP   |   ISP   |   Location   |   Ping   |
 |:-------|:--------|:------------:|:--------:|
-| <pre><code>2001:19f0:1000:3e6f:5400:5ff:fe90:caa</code></pre> | The Constant Company, LLC | New Jersey, Piscataway | 123 ms ⚡ |
-| <pre><code>18.222.50.18</code></pre> | Amazon Technologies Inc. | Ohio, Columbus | 159 ms ⚡ |
-| <pre><code>162.243.115.21</code></pre> | DigitalOcean, LLC | New Jersey, Secaucus | 160 ms ⚡ |
-| <pre><code>162.243.115.23</code></pre> | DigitalOcean, LLC | New Jersey, Secaucus | 162 ms ⚡ |
-| <pre><code>192.3.199.95</code></pre> | HostPapa | Illinois, Elk Grove Village | 167 ms ⚡ |
-| <pre><code>44.209.52.7</code></pre> | Amazon Data Services Northern Virginia | Virginia, Ashburn | 170 ms ⚡ |
-| <pre><code>2606:2040:140:f4::3</code></pre> | 3HCLOUD LLC | Florida, Miami | 175 ms ⚡ |
-| <pre><code>147.182.229.237</code></pre> | DigitalOcean, LLC | California, Santa Clara | 183 ms ⚡ |
-| <pre><code>174.137.61.42</code></pre> | Cluster Logic Inc | California, Fremont | 194 ms ⚡ |
-| <pre><code>143.198.31.221</code></pre> | DigitalOcean, LLC | New Jersey, Clifton | 203 ms ⚡ |
-| <pre><code>107.173.87.103</code></pre> | RackNerd LLC | California, Santa Clara | 210 ms ⚡ |
-| <pre><code>2600:1f13:5f0:ab00:b7c0:90cf:366d:a259</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 221 ms ⚡ |
-| <pre><code>23.94.43.51</code></pre> | RackNerd LLC | Washington, Seattle | 223 ms ⚡ |
-| <pre><code>192.3.251.89</code></pre> | RackNerd LLC | Washington, Seattle | 242 ms ⚡ |
-| <pre><code>149.28.92.56</code></pre> | Vultr Holdings, LLC | California, Los Angeles | 253 ms ⚡ |
-| <pre><code>216.24.178.29</code></pre> | Cluster Logic Inc | California, Los Angeles | 306 ms ⚡ |
-| <pre><code>178.156.139.174</code></pre> | Hetzner Online GmbH | Virginia, Ashburn | 348 ms ⚡ |
-| <pre><code>154.9.227.100</code></pre> | NetLab | California, Los Angeles | 354 ms ⚡ |
-| <pre><code>34.136.112.104</code></pre> | Google LLC | Iowa, Council Bluffs | 369 ms ⚡ |
-| <pre><code>35.239.174.101</code></pre> | Google LLC | Iowa, Council Bluffs | 377 ms ⚡ |
-| <pre><code>54.213.214.160</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 679 ms ⚡ |
-| <pre><code>51.81.209.10</code></pre> | OVH US LLC | Oregon, Hillsboro | 721 ms ⚡ |
-| <pre><code>147.135.10.209</code></pre> | OVH US LLC | Virginia, Warrenton | 1505 ms 🐇 |
+| <pre><code>2600:1f13:5f0:ab00:b7c0:90cf:366d:a259</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 57 ms ⚡ |
+| <pre><code>174.137.61.42</code></pre> | Cluster Logic Inc | California, Fremont | 129 ms ⚡ |
+| <pre><code>147.182.229.237</code></pre> | DigitalOcean, LLC | California, Santa Clara | 139 ms ⚡ |
+| <pre><code>23.94.43.51</code></pre> | RackNerd LLC | Washington, Seattle | 142 ms ⚡ |
+| <pre><code>192.3.251.89</code></pre> | RackNerd LLC | Washington, Seattle | 142 ms ⚡ |
+| <pre><code>149.28.92.56</code></pre> | Vultr Holdings, LLC | California, Los Angeles | 155 ms ⚡ |
+| <pre><code>18.222.50.18</code></pre> | Amazon Technologies Inc. | Ohio, Columbus | 196 ms ⚡ |
+| <pre><code>107.173.87.103</code></pre> | RackNerd LLC | California, Santa Clara | 203 ms ⚡ |
+| <pre><code>216.24.178.29</code></pre> | Cluster Logic Inc | California, Los Angeles | 215 ms ⚡ |
+| <pre><code>44.209.52.7</code></pre> | Amazon Data Services Northern Virginia | Virginia, Ashburn | 218 ms ⚡ |
+| <pre><code>2001:19f0:1000:3e6f:5400:5ff:fe90:caa</code></pre> | The Constant Company, LLC | New Jersey, Piscataway | 271 ms ⚡ |
+| <pre><code>2606:2040:140:f4::3</code></pre> | 3HCLOUD LLC | Florida, Miami | 286 ms ⚡ |
+| <pre><code>162.243.115.23</code></pre> | DigitalOcean, LLC | New Jersey, Secaucus | 297 ms ⚡ |
+| <pre><code>143.198.31.221</code></pre> | DigitalOcean, LLC | New Jersey, Clifton | 302 ms ⚡ |
+| <pre><code>35.239.174.101</code></pre> | Google LLC | Iowa, Council Bluffs | 330 ms ⚡ |
+| <pre><code>162.243.115.21</code></pre> | DigitalOcean, LLC | New Jersey, Secaucus | 333 ms ⚡ |
+| <pre><code>51.81.209.10</code></pre> | OVH US LLC | Oregon, Hillsboro | 401 ms ⚡ |
+| <pre><code>34.136.112.104</code></pre> | Google LLC | Iowa, Council Bluffs | 405 ms ⚡ |
+| <pre><code>154.9.227.100</code></pre> | NetLab | California, Los Angeles | 437 ms ⚡ |
+| <pre><code>178.156.139.174</code></pre> | Hetzner Online GmbH | Virginia, Ashburn | 491 ms ⚡ |
+| <pre><code>54.213.214.160</code></pre> | Amazon.com, Inc. | Oregon, Boardman | 520 ms ⚡ |
+| <pre><code>147.135.10.209</code></pre> | OVH US LLC | Virginia, Warrenton | 1568 ms 🐇 |
 
 </details>
 
